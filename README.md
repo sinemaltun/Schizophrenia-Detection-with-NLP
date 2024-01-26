@@ -15,6 +15,7 @@ This graduation project aims to detect the presence of schizophrenia through nat
 
 ## Project Structure
 * `Data Objects`: Folder storing data for the project
+* `Plots`: Folder storing plots
     1. `Data Preparation.ipynb`: Notebook for preparing the dataset
     2. `Text Cleaning and Vectorization.ipynb`: Notebook for cleaning and vectorizing text data
     3. `Modelling By Sentence.ipynb`: Notebook focusing on sentence-based modelling
